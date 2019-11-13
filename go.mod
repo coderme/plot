@@ -1,4 +1,4 @@
-module gonum.org/v1/plot
+module github.com/coderme/plot
 
 go 1.12
 
@@ -9,6 +9,6 @@ require (
 	github.com/jung-kurt/gofpdf v1.0.3-0.20190309125859-24315acbbda5
 	golang.org/x/exp v0.0.0-20180807140117-3d87b88a115f
 	golang.org/x/image v0.0.0-20180708004352-c73c2afc3b81
-	gonum.org/v1/gonum v0.0.0-20180816165407-929014505bf4
+	github.com/coderme/gonum v0.0.0-20180816165407-929014505bf4
 	rsc.io/pdf v0.1.1
 )

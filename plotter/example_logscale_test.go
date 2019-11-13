@@ -9,9 +9,9 @@ import (
 	"log"
 	"math"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg"
+	"github.com/coderme/plot" 
+	"github.com/coderme/plot/plotter"
+	"github.com/coderme/plot/vg"
 )
 
 // Example_logScale shows how to create a plot with a log-scale on the Y-axis.

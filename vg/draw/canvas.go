@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package draw // import "gonum.org/v1/plot/vg/draw"
+package draw // import "github.com/coderme/plot/vg/draw"
 
 import (
 	"fmt"
@@ -10,11 +10,11 @@ import (
 	"math"
 	"strings"
 
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/vgeps"
-	"gonum.org/v1/plot/vg/vgimg"
-	"gonum.org/v1/plot/vg/vgpdf"
-	"gonum.org/v1/plot/vg/vgsvg"
+	"github.com/coderme/plot/vg"
+	"github.com/coderme/plot/vg/vgeps"
+	"github.com/coderme/plot/vg/vgimg"
+	"github.com/coderme/plot/vg/vgpdf"
+	"github.com/coderme/plot/vg/vgsvg"
 )
 
 // A Canvas is a vector graphics canvas along with

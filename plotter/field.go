@@ -7,9 +7,9 @@ package plotter
 import (
 	"math"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
+	"github.com/coderme/plot" 
+	"github.com/coderme/plot/vg"
+	"github.com/coderme/plot/vg/draw"
 )
 
 // FieldXY describes a two dimensional vector field where the

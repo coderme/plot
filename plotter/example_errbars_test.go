@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg/draw"
+	"github.com/coderme/plot" 
+	"github.com/coderme/plot/plotter"
+	"github.com/coderme/plot/vg/draw"
 )
 
 // ExampleErrors draws points and error bars.

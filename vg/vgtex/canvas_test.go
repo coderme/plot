@@ -7,7 +7,7 @@ package vgtex_test
 import (
 	"testing"
 
-	"gonum.org/v1/plot/cmpimg"
+	"github.com/coderme/plot/cmpimg"
 )
 
 func TestTexCanvas(t *testing.T) {

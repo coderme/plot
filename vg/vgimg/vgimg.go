@@ -4,7 +4,7 @@
 
 // Package vgimg implements the vg.Canvas interface using
 // github.com/fogleman/gg as a backend to output raster images.
-package vgimg // import "gonum.org/v1/plot/vg/vgimg"
+package vgimg // import "github.com/coderme/plot/vg/vgimg"
 
 import (
 	"bufio"
@@ -19,7 +19,7 @@ import (
 	"github.com/fogleman/gg"
 	"golang.org/x/image/tiff"
 
-	"gonum.org/v1/plot/vg"
+	"github.com/coderme/plot/vg"
 )
 
 // Canvas implements the vg.Canvas interface,

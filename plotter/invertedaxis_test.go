@@ -7,7 +7,7 @@ package plotter_test
 import (
 	"testing"
 
-	"gonum.org/v1/plot/cmpimg"
+	"github.com/coderme/plot/cmpimg"
 )
 
 func TestInvertedScale(t *testing.T) {

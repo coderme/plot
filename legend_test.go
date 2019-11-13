@@ -7,7 +7,7 @@ package plot_test
 import (
 	"testing"
 
-	"gonum.org/v1/plot/cmpimg"
+	"github.com/coderme/plot/cmpimg"
 )
 
 func TestLegend_standalone(t *testing.T) {

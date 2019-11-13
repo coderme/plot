@@ -7,7 +7,7 @@ package draw_test
 import (
 	"fmt"
 
-	"gonum.org/v1/plot/vg/draw"
+	"github.com/coderme/plot/vg/draw"
 )
 
 func ExampleCrop_splitVertical() {

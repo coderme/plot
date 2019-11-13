@@ -8,10 +8,10 @@ import (
 	"image/color"
 	"os"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
-	"gonum.org/v1/plot/vg/vgimg"
+	"github.com/coderme/plot" 
+	"github.com/coderme/plot/vg"
+	"github.com/coderme/plot/vg/draw"
+	"github.com/coderme/plot/vg/vgimg"
 )
 
 type exampleThumbnailer struct {
